@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tapobratabiswas1-coder.github.io/Tech-with-Tapobrata/sitemap.xml
